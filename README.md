@@ -1,3 +1,4 @@
+HEAD
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
@@ -10,3 +11,30 @@ Currently, two official plugins are available:
 ## Expanding the ESLint configuration
 
 If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+=======
+# 🛒 Shopora – Modern E-commerce Web App
+
+Shopora is a modern and responsive e-commerce web application built with React. It provides a seamless shopping experience with dynamic product browsing, category-based filtering, and a clean user interface.
+
+---
+
+## 🚀 Features
+
+- 🔍 Product Search & Filtering
+- 🛍️ Category-Based Navigation
+- 📄 Product Detail Page
+- 🛒 Add to Cart Functionality
+- 📱 Fully Responsive Design
+- ⚡ Fast & Smooth UI
+- 🌐 API Integration (DummyJSON / External APIs)
+
+---
+
+## 🧑‍💻 Tech Stack
+
+- ⚛️ React.js
+- 🎨 Tailwind CSS
+- 🔄 React Router
+- 📦 Context API (State Management)
+- 🌐 Axios (API Calls)
+19cce3fd67b15877e1f024cc1bd528b8944ac162
